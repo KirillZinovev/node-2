@@ -1,53 +1,66 @@
 const User = require("../models/user");
-const validate = require("../middleware/validate");
+const validator = require("validator");
+const jwt = require("jsonwebtoken");
+const link = "https://kappa.lol/VMimi";
 const messanger = "https://kappa.lol/iSONv";
 const logger = require("../logger/index");
-const jwt = require("jsonwebtoken");
+const winston = require("winston");
 require("dotenv").config();
-
 exports.form = (req, res) => {
-  logger.info("Пользователь зашёл на страницу логина");
-  res.render("loginForm", { title: "Login", messanger: messanger });
+  res.render("loginForm", { title: "Login", link: link, messanger: messanger });
 };
+
 exports.submit = (req, res, next) => {
-  User.authentificate(req.body.loginForm, (error, data) => {
-    if (error) {
-      logger.error(`Произошла ошибка: ${error}`);
-      return next(error);
-    }
+  const email = req.body.loginForm.email;
+  const password = req.body.loginForm.password;
+
+  if (!validator.isEmail(email)) {
+    res.render("loginForm", {
+      errors: ["Неверный формат email"],
+      link: link,
+      messanger: messanger,
+    });
+    return;
+  }
+
+  User.authenticate(req.body.loginForm, (error, data) => {
+    if (error) return next(error);
     if (!data) {
-      res.error("Имя или пароль неверный");
+      res.render("loginForm", {
+        errors: ["Имя или пароль неверный"],
+        link: link,
+        messanger: messanger,
+      });
       logger.error("Имя или пароль неверный");
-      res.redirect("back");
-    } else {
-      req.session.userEmail = data.email;
-      req.session.userName = data.name;
-      logger.info("Пользователь вошёл в аккаунт");
-      //jwt generation
-      const jwtTime = process.env.JWTTIME;
-      const token = jwt.sign(
-        {
-          name: data.email,
-        },
-        process.env.JWTTOKENSECRET,
-        {
-          expiresIn: jwtTime,
-        }
-      );
-      // создание cookie для пользователя
-      res
-        .cookie("jwt", token, { httpOnly: true, maxAge: jwtTime })
-        .redirect("/");
-      logger.info(`Создан новый токен для ${data.email}, Токен: ${token}`);
+      return;
     }
+
+    req.session.userEmail = data.email;
+    req.session.userName = data.name;
+    const jwt_time = process.env.jwtTime;
+    const token = jwt.sign(
+      {
+        name: data.email,
+      },
+      process.env.JWT_SECRET,
+      {
+        expiresIn: jwt_time,
+      }
+    );
+    res.cookie("jwt", token, {
+      httpOnly: true,
+      maxAge: jwt_time,
+    });
+    console.log("Токен подготовлен (на странице login): " + token);
+    logger.info("Token подготовка :" + token);
+    res.redirect("/");
   });
 };
 
 exports.logout = (req, res, next) => {
   res.clearCookie("jwt");
-  logger.info("Пользователь вышел");
   req.session.destroy((err) => {
     if (err) return next(err);
-    res.redirect("/");
+    res.redirect("/login");
   });
 };

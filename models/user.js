@@ -1,87 +1,59 @@
-const mysql = require("mysql2");
+const bcrypt = require("bcrypt");
+const sqlite3 = require("sqlite3").verbose();
+const res = require("express/lib/response");
+const db = new sqlite3.Database("test.sqlite");
 
-const connection = mysql.createConnection({
-  host: "localhost",
-  user: process.env.MYSQL_LOGIN,
-  database: "serverdb",
-  password: process.env.MYSQL_PASSWORD,
-});
+const sql =
+  "CREATE TABLE IF NOT EXISTS users(id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT NOT NULL, email TEXT NOT NULL, password TEXT NOT NULL, age INT NOT NULL, isAdmin INTEGER DEFAULT 0  )";
 
-connection.connect((err) => {
+db.run(sql);
+
+const query = "SELECT * FROM users WHERE name = ?";
+
+db.get(query, (err, user) => {
   if (err) {
-    console.error("Ошибка подключения к базе данных MySql", err);
+    console.error(err);
     return;
   }
-});
-
-const sql = ` 
-  CREATE TABLE IF NOT EXISTS users( 
-    id INT PRIMARY KEY AUTO_INCREMENT, 
-    name VARCHAR(255) NOT NULL, 
-    email VARCHAR(255) NOT NULL, 
-    password VARCHAR(255) NOT NULL, 
-    age INT NOT NULL, 
-    isAdmin INT 
-  ) 
-`;
-
-connection.query(sql, (err, results) => {
-  if (err) {
-    console.error("Ошибка создания таблицы users", err);
-    return;
+  if (user) {
+    const updateQuery = "UPDATE users SET isAdmin = ? WHERE id = ?";
+    db.run(updateQuery);
   }
 });
-
 class User {
-  constructor() {}
-
-  static create(dataForm, cb) {
-    const { name, email, password, age, isAdmin } = dataForm;
-
-    const sql =
-      "INSERT INTO users (name, email, password, age, isAdmin) VALUES (?, ?, ?, ?, ?)";
-    connection.query(
-      sql,
-      [name, email, password, age, isAdmin],
-      (err, results) => {
-        if (err) {
-          console.error("Ошибка создания пользователя", err);
-          return cb(err);
-        }
-        cb(null, results.insertId);
+  static async create(dataForm, cb) {
+    try {
+      const sql =
+        "INSERT INTO users (name, email, password, age) VALUES (?, ?, ?, ?)";
+      db.run(
+        sql,
+        dataForm.name,
+        dataForm.email,
+        dataForm.password,
+        dataForm.age,
+        cb
+      );
+    } catch (err) {
+      if (err) {
+        logger.error("Ошибка создания пользователя");
+        console.error("Ошибка создания пользователя");
+        return cb(err);
       }
-    );
+    }
   }
 
   static findByEmail(email, cb) {
-    const sql = "SELECT * FROM users WHERE email = ?";
-    connection.query(sql, [email], (err, rows) => {
-      if (err) {
-        console.error("Ошибка в поиске пользователя по email", err);
-        return cb(err);
-      }
-      if (!rows || rows.length === 0) {
-        return cb(null, null);
-      }
-      cb(null, rows[0]);
-    });
+    db.get("SELECT * FROM users WHERE email = ?", email, cb);
   }
 
-  static authentificate(dataForm, cb) {
-    User.findByEmail(dataForm.email, (err, user) => {
-      if (err) {
-        console.error("Ошибка аутификации пользователя", err);
-        return cb(err);
-      }
-
-      if (!user) {
-        return cb();
-      }
-
+  static authenticate(dataForm, cb) {
+    User.findByEmail(dataForm.email, (error, user) => {
+      if (error) return cb(error);
+      if (!user) return cb();
       if (dataForm.password === user.password) {
-        cb(null, user);
+        return cb(null, user);
       } else {
-        cb();
+        return cb();
       }
     });
   }

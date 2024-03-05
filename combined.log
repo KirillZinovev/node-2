@@ -1,1910 +1,420 @@
 {
-  message: 'listen on port 3000',
+  message: 'Зашли на страницу с регистрацией',
   level: 'info',
-  timestamp: '2024-02-11T19:48:32.942Z'
+  timestamp: '2024-02-12T07:11:35.681Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:48:38.242Z'
+  timestamp: '2024-02-12T07:12:16.297Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Зашли на страницу с логином',
   level: 'info',
-  timestamp: '2024-02-11T19:48:57.848Z'
+  timestamp: '2024-02-12T07:12:23.113Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:50:47.930Z'
+  timestamp: '2024-02-12T07:13:05.239Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Зашли на страницу edit post',
   level: 'info',
-  timestamp: '2024-02-11T19:51:47.925Z'
+  timestamp: '2024-02-12T07:13:41.322Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:52:17.520Z'
+  timestamp: '2024-02-19T06:10:33.591Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:53:20.827Z'
+  timestamp: '2024-02-19T07:51:05.608Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Зашли на страницу с регистрацией',
   level: 'info',
-  timestamp: '2024-02-11T19:54:05.440Z'
+  timestamp: '2024-02-19T07:51:14.577Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:54:20.971Z'
+  timestamp: '2024-02-19T07:52:26.664Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:55:21.177Z'
+  timestamp: '2024-02-19T07:52:34.801Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T19:55:53.040Z'
+  timestamp: '2024-02-19T07:52:59.723Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Зашли на страницу с логином',
   level: 'info',
-  timestamp: '2024-02-11T19:55:55.766Z'
+  timestamp: '2024-02-19T07:53:01.967Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Зашли на страницу с регистрацией',
   level: 'info',
-  timestamp: '2024-02-11T19:56:59.982Z'
+  timestamp: '2024-02-19T07:53:03.847Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:26.332Z'
+}
+{
+  message: 'Зашли на страницу с логином',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:33.989Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:35.765Z'
+}
+{
+  message: 'Token подготовлен eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicXd2ZTEzNDU0IiwiaWF0IjoxNzA4MzI5Mjg2LCJleHAiOjE3MDgzMzI4ODZ9.Ll8dh1sYUPeQVTb5IFuIVKjPjEw6zftQCvXdu6QdPFU',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:46.579Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T07:54:49.153Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:00:48.207Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:04:40.882Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:05:18.397Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:05:57.097Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-26T08:06:09.937Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:09:43.959Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:10:36.274Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-26T08:10:56.001Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:11:30.610Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:11:45.582Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:13:05.952Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:13:32.003Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:14:38.536Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:16:03.342Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:25:55.685Z'
+}
+{
+  message: 'Сервер запущен на порту  + port',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:10.423Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:47.840Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:30:16.441Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:30:42.184Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:22.109Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:51.075Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoid2VyYndlcmJ3ZXIxMyIsImlhdCI6MTcwODkzNjMyMSwiZXhwIjoxNzA4OTM5OTIxfQ.2VS7_WReET3PkOairP9_I_dMaSVtK2Z_yg85k1cnqe0',
+  level: 'info',
+  timestamp: '2024-02-26T08:32:01.581Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDg5MzYzMzQsImV4cCI6MTcwODkzOTkzNH0.MOTLmuErMTuuO8jA5e8bLSEedoENqSuMjJbAkJFMzeA',
+  level: 'info',
+  timestamp: '2024-02-26T08:32:14.892Z'
+}
+{
+  message: 'Зашли на страницу edit post',
+  level: 'info',
+  timestamp: '2024-02-26T08:32:28.696Z'
+}
+{
+  message: 'Зашли на страницу edit post',
+  level: 'info',
+  timestamp: '2024-02-26T08:33:06.942Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:11.144Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:20.074Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:32.159Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicmVidHJ3YnJld2IiLCJpYXQiOjE3MDg5MzY2NzMsImV4cCI6MTcwODk0MDI3M30._2jet6dLUSLJOgatsldVrFK9VJqFoVq8tcw04NX5OFc',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:53.171Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:45:51.229Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicXdldnZ3ZXF2cWV3dyIsImlhdCI6MTcwODkzNzE2NCwiZXhwIjoxNzA4OTQwNzY0fQ.bYGy0stKVo_1Qm1-Gejf7i6-zOOzgbaigyQl3nfXUAc',
+  level: 'info',
+  timestamp: '2024-02-26T08:46:04.517Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicXdldmVxd3YiLCJpYXQiOjE3MDg5MzcyMDMsImV4cCI6MTcwODk0MDgwM30.F4W9nVYDz12MP43TcgR0Qu75vOhJzsVBSYRjJcBbnTc',
+  level: 'info',
+  timestamp: '2024-02-26T08:46:43.576Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:13:06.581Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:17:58.692Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:32:28.641Z'
+}
+{
+  message: 'Сервер запущен на порту 34',
+  level: 'info',
+  timestamp: '2024-03-05T06:33:03.031Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:33:40.101Z'
 }
 {
   message: 'Имя или пароль неверный',
   level: 'error',
-  timestamp: '2024-02-11T19:57:37.074Z'
+  timestamp: '2024-03-05T06:33:49.745Z'
 }
 {
-  message: 'Такой пользователь в базе уже существует',
-  level: 'error',
-  timestamp: '2024-02-11T19:58:35.837Z'
-}
-{
-  message: 'listen on port 3000',
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoid2VyYndlcmJ3ZXIiLCJpYXQiOjE3MDk2MjA0NDEsImV4cCI6MTcwOTYyNDA0MX0.Osq-itDuWdNPfVhFU4fRuP12PBf51bzrpzmI3pHjt_k',
   level: 'info',
-  timestamp: '2024-02-11T19:59:14.811Z'
+  timestamp: '2024-03-05T06:34:01.056Z'
 }
 {
-  message: 'Такой пользователь в базе уже существует',
-  level: 'error',
-  timestamp: '2024-02-11T19:59:31.163Z'
-}
-{
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T20:01:51.756Z'
+  timestamp: '2024-03-05T06:35:04.698Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjA1MTMsImV4cCI6MTcwOTYyNDExM30.I1jkyY82Rahj7slO0btYRE2TCRD3AfnP0rsUVkleAzU',
   level: 'info',
-  timestamp: '2024-02-11T20:03:47.519Z'
+  timestamp: '2024-03-05T06:35:13.853Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T20:06:03.029Z'
+  timestamp: '2024-03-05T06:40:40.384Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjA4NTEsImV4cCI6MTcwOTYyNDQ1MX0.9REIf9MlkheNZINnbmJQwwcL3F_Kd2OsecLCDjyBDAk',
   level: 'info',
-  timestamp: '2024-02-11T20:06:18.478Z'
+  timestamp: '2024-03-05T06:40:51.325Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Token not accepted',
   level: 'info',
-  timestamp: '2024-02-11T20:08:38.284Z'
+  timestamp: '2024-03-05T06:40:53.899Z'
 }
 {
-  message: "development, 404, Could't get path",
-  level: 'error',
-  timestamp: '2024-02-11T20:08:45.878Z'
-}
-{
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-11T20:09:06.133Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-11T20:09:06.303Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T06:02:31.313Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-12T06:02:51.432Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T06:57:24.512Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T06:58:41.071Z'
+  timestamp: '2024-03-05T06:42:40.100Z'
 }
 {
   message: 'Пользователь зашёл на страницу логина',
   level: 'info',
-  timestamp: '2024-02-12T06:58:45.321Z'
+  timestamp: '2024-03-05T06:42:49.766Z'
 }
 {
-  message: 'listen on port 3000',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-12T06:59:29.510Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T06:59:37.260Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-02-12T07:00:06.106Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T07:00:38.496Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T07:01:17.998Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T07:01:55.588Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T07:02:06.559Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T07:02:28.921Z'
-}
-{
-  message: 'listen on port 3000',
-  level: 'info',
-  timestamp: '2024-02-12T07:03:13.145Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-12T07:03:43.253Z'
+  timestamp: '2024-03-05T06:43:33.486Z'
 }
 {
   message: 'Пользователь зашёл на страницу логина',
   level: 'info',
-  timestamp: '2024-02-12T07:03:47.462Z'
+  timestamp: '2024-03-05T06:43:35.366Z'
 }
 {
-  message: 'Пользователь зашёл на главную страницу',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-12T07:03:51.455Z'
+  timestamp: '2024-03-05T06:44:12.090Z'
 }
 {
-  message: 'Пользователь зашёл на страницу логина',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-12T07:04:02.405Z'
+  timestamp: '2024-03-05T06:44:39.085Z'
 }
 {
-  message: 'Пользователь зашёл на главную страницу',
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjEwODEsImV4cCI6MTcwOTYyNDY4MX0.NhVGJGqpMPP86bbZKPCIgux3Irmxe3pva1l5147d5mg',
   level: 'info',
-  timestamp: '2024-02-12T07:04:09.632Z'
+  timestamp: '2024-03-05T06:44:41.718Z'
 }
 {
-  message: 'Пользователь зашёл на страницу постов',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-12T07:04:50.237Z'
+  timestamp: '2024-03-05T06:49:46.371Z'
 }
 {
-  message: 'Пользователь зашёл на страницу создания поста',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-02-12T07:04:56.595Z'
+  timestamp: '2024-03-05T06:50:40.981Z'
 }
 {
-  message: "development undefined Column 'username' cannot be null",
-  level: 'error',
-  timestamp: '2024-02-12T07:05:09.189Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-12T07:06:49.239Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-12T07:06:52.167Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-12T07:06:59.310Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-12T07:06:59.329Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-02-12T07:07:03.121Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-02-12T07:07:07.439Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-02-12T07:07:12.385Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-02-12T07:08:46.642Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-12T07:08:49.544Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-19T06:26:11.393Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-19T06:26:17.501Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-19T07:50:46.582Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-19T07:50:48.835Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-19T07:50:50.930Z'
-}
-{
-  message: 'Создан новый токен для goida@gmail.com, eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ29pZGEiLCJpYXQiOjE3MDgzMjkwODQsImV4cCI6MTcwODMzMjY4NH0.ID-BWPnJxzCUjwZ_sNyEm3LTuf_5Q5lS9UZyq3So-2U',
-  level: 'info',
-  timestamp: '2024-02-19T07:51:24.851Z'
-}
-{
-  message: 'Создался новый пользователь',
-  level: 'info',
-  timestamp: '2024-02-19T07:51:24.866Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-19T07:51:24.894Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-19T07:56:01.905Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-19T07:56:02.012Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-02-19T07:57:50.589Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-19T07:57:54.144Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:08.500Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:23.105Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:23.137Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:25.219Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:35.082Z'
-}
-{
-  message: 'Пользователь создал новый пост',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:58.130Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-02-19T07:58:58.173Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-02-19T07:59:12.822Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-19T07:59:12.829Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:02:54.166Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:02:58.395Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:02:58.649Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-26T08:03:03.291Z'
-}
-{
-  message: 'Такой пользователь в базе уже существует',
-  level: 'error',
-  timestamp: '2024-02-26T08:06:38.003Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:08:23.979Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-26T08:08:28.381Z'
-}
-{
-  message: 'Такой пользователь в базе уже существует',
-  level: 'error',
-  timestamp: '2024-02-26T08:10:05.618Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:10:05.646Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:11:01.282Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:13:22.503Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:13:23.524Z'
-}
-{
-  message: 'development undefined jwt is not defined',
-  level: 'error',
-  timestamp: '2024-02-26T08:14:04.860Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-26T08:14:04.865Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:14:04.974Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-02-26T08:14:25.654Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:14:25.668Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-26T08:14:26.422Z'
-}
-{
-  message: 'Такой пользователь в базе уже существует',
-  level: 'error',
-  timestamp: '2024-02-26T08:16:09.477Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:26:36.099Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:26:38.209Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-26T08:26:42.480Z'
-}
-{
-  message: 'Создался новый пользователь',
-  level: 'info',
-  timestamp: '2024-02-26T08:27:11.973Z'
-}
-{
-  message: 'Создан новый токен для aaa@gmail.com, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWFhIiwiaWF0IjoxNzA4OTM2MDMxLCJleHAiOjE3MDkxMzYwMzF9.hGiofmkokaZtPKKM_g_bGgZhYwZkU0DY8xG-cjn87EE',
-  level: 'info',
-  timestamp: '2024-02-26T08:27:11.979Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:27:11.999Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:27:20.415Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:27:20.430Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-02-26T08:27:49.631Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:27:49.657Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:27:54.076Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:28:09.971Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:28:10.002Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:28:14.209Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:28:14.400Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:28:49.387Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:28:51.768Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:28:53.310Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-26T08:29:01.721Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:29:44.466Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:29:48.152Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-26T08:29:57.890Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDg5MzYxOTcsImV4cCI6MTcwODkzNjY5N30.e0lhA3scpZkvGu_udmBg-p7O47KvDQhuAn3NvuHuQXs',
-  level: 'info',
-  timestamp: '2024-02-26T08:29:57.899Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:29:57.918Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:30:01.208Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:30:01.316Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:32:34.119Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:32:35.516Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-02-26T08:32:36.981Z'
-}
-{
-  message: 'Создался новый пользователь',
-  level: 'info',
-  timestamp: '2024-02-26T08:33:09.905Z'
-}
-{
-  message: 'Создан новый токен для www@gmail.com, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoid3d3IiwiaWF0IjoxNzA4OTM2Mzg5LCJleHAiOjE3MDg5MzY4ODl9.c8R7h880TUv4NsjGzM4aGXbC2rE8noNtKo0uhCOLyn8',
-  level: 'info',
-  timestamp: '2024-02-26T08:33:09.912Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:33:09.927Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:35:11.387Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:35:11.518Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:36:38.622Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:37:36.261Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:37:36.768Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:37:36.778Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:37:39.552Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:37:56.300Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:00.240Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:00.254Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:38:04.559Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:16.610Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:16.630Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:27.398Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:27.405Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:38:36.624Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:38:37.584Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:40.895Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:38:40.923Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:39:12.674Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:39:32.858Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:39:32.993Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:39:32.994Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-26T08:39:35.093Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDg5MzY3NzUsImV4cCI6MTcwODkzNzI3NX0.2t-W_EVh8ZD89X4sMY6iulMic_glm6fViw1S3vwM1TI',
-  level: 'info',
-  timestamp: '2024-02-26T08:39:35.099Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:39:35.129Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:39:55.303Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:44:35.069Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:44:35.072Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:44:35.074Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:44:35.075Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:44:41.255Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:44:50.297Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:45:01.577Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:45:01.656Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:45:56.412Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:45:57.166Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:45:58.615Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-26T08:46:07.892Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDg5MzcxNjcsImV4cCI6MTcwODkzNzY2N30.Xf352CnB_KXgt8gR8mPIThQs2ZB60on8fiMILI4nbJA',
-  level: 'info',
-  timestamp: '2024-02-26T08:46:07.907Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:46:07.925Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:46:11.603Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:46:11.732Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-02-26T08:46:28.789Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:46:28.807Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:46:49.080Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-02-26T08:46:49.131Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:29.862Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:30.740Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:32.326Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:43.818Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDg5MzczODMsImV4cCI6MTcwODkzNzg4M30.1ODTi4f7pMH6uoMYjOrn5hB1gsHmVgTXv7BRwASZfas',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:43.835Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:43.857Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:50.013Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T08:49:50.985Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T09:31:02.849Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-02-26T09:31:10.480Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T09:31:10.496Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-02-26T09:33:16.843Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:06:48.053Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:06:51.288Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:07:04.544Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:02.542Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:04.015Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:28.640Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MTg5NjgsImV4cCI6MTcwOTYxOTQ2OH0.VcZTz_By6X8r80Y9hBGnwZ6d4Y9KcPB3j55cZtHwke0',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:28.665Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:28.689Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:30.982Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:09:33.422Z'
-}
-{
-  message: 'development undefined req.cookies is not a function',
-  level: 'error',
-  timestamp: '2024-03-05T06:09:38.468Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:11:13.146Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:11:13.215Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:11:22.180Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-03-05T06:11:34.775Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:11:34.788Z'
-}
-{
-  message: 'Пользователь зашёл на страницу регистрации',
-  level: 'info',
-  timestamp: '2024-03-05T06:11:39.167Z'
-}
-{
-  message: 'Создался новый пользователь',
-  level: 'info',
-  timestamp: '2024-03-05T06:13:33.617Z'
-}
-{
-  message: 'Создан новый токен для liza@gmail.com, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibGl6YSIsImlhdCI6MTcwOTYxOTIxMywiZXhwIjoxNzA5NjE5NzEzfQ.w--J112MZX49YsT5pFcsk5pI0eo-VLzyVDl_mbezoWM',
-  level: 'info',
-  timestamp: '2024-03-05T06:13:33.618Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:13:33.642Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:13:35.400Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:13:37.629Z'
-}
-{
-  message: 'development undefined req.cookies is not a function',
-  level: 'error',
-  timestamp: '2024-03-05T06:13:42.508Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:19:53.796Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:20:06.461Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:20:35.980Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MTk2MzUsImV4cCI6MTcwOTYyMDEzNX0.YySDpaGX9zz3_5Lw4r_somSJ30JNBu7sJ1KVqQFCSj8',
-  level: 'info',
-  timestamp: '2024-03-05T06:20:35.990Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:20:37.812Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:20:45.275Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:20:55.429Z'
-}
-{
-  message: 'development undefined req.cookies is not a function',
-  level: 'error',
-  timestamp: '2024-03-05T06:21:39.645Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:07.523Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:09.846Z'
-}
-{
-  message: 'Имя или пароль неверный',
-  level: 'error',
-  timestamp: '2024-03-05T06:25:16.416Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:16.447Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:26.754Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MTk5MjYsImV4cCI6MTcwOTYyMDQyNn0.lcYXe0h3u9zojNs2W-miYs6ZUhxp6SBAansAM6bTsxU',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:26.758Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:26.781Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:28.645Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:30.810Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:25:35.662Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:03.781Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:26:04.116Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:26:04.120Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:06.621Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:06.630Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:10.221Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:15.601Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MTk5NzUsImV4cCI6MTcwOTYyMDQ3NX0.RpgAi4a0dwRuWdbPRwtLRdMu9LFOooG7N-pNdiCK2As',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:15.617Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:15.691Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:17.270Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:19.618Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:26:25.779Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:26:26.922Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:26:26.955Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:26:30.357Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:26:30.494Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:11.216Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:13.750Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:31.204Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjAwNTEsImV4cCI6MTcwOTYyMDU1MX0.8nPEsYbvMqo8ZEO45w1ecRLIbIo4MUxO_Vndzk9rzUI',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:31.210Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:31.233Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:32.774Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:27:35.228Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:27:35.309Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:39.116Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:27:48.527Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:27:59.284Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:27:59.416Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:27:59.433Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:17.756Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:19.812Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:19.841Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:25.433Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:33.545Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjAxNzMsImV4cCI6MTcwOTYyMDY3M30.B-LcAcF3jI2KbmAv7y4V7rtNwOVNtWx0EvTyYucWkmI',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:33.565Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:33.614Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:35.717Z'
-}
-{
-  message: 'Пользователь зашёл на страницу обновления поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:29:37.241Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:29:38.117Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:25.205Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:27.617Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:34.730Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjAyMzQsImV4cCI6MTcwOTYyMDczNH0.7YaPtWsyCoaGs_HZA4Q9pyPbtdOmRr2VsWpocX0XtSc',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:34.746Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:34.767Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:36.332Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:30:53.372Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:31:22.087Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:31:27.078Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:31:27.164Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:31:47.180Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:32:12.685Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:32:12.823Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:34:02.912Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:34:16.976Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:34:23.181Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:34:23.246Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:35:04.802Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:35:04.807Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:12.234Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:17.160Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:17.185Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:18.848Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:35:29.683Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:35:29.745Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:30.813Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjA1MzAsImV4cCI6MTcwOTYyMTAzMH0.P0YCYiIf0BHF9z_iFQdMFeu3s029AgLBaIde6b3kCuc',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:30.829Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:30.857Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:32.268Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:35:34.693Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:35:34.929Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:35:34.990Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:36:30.922Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:36:30.993Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:36:31.023Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:36:31.026Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:36:31.077Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:36:31.157Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:36:59.351Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:01.542Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:17.638Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjA2MzcsImV4cCI6MTcwOTYyMTEzN30._yZdQW0FkIimkQXUzNia5HQ91qi_deLWmKDjvvtmJ9Y',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:17.652Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:17.669Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:19.320Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:21.933Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:37:30.498Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:43:48.285Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:43:51.222Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:43:57.332Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjEwMzcsImV4cCI6MTcwOTYyMTUzN30.Wsz1D-d19uSRzNMbHQjeNAtrbWO64c6IkTElB9N7VSs',
-  level: 'info',
-  timestamp: '2024-03-05T06:43:57.341Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:43:57.378Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:43:58.654Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:44:00.794Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:44:07.565Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:44:57.518Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:02.319Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:02.406Z'
-}
-{
-  message: 'Пользователь вышел',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:04.101Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:04.127Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:05.443Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:13.241Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjExMTMsImV4cCI6MTcwOTYyMTYxM30.VfDFPYJLISHXu0XS3ySQdlUuiwVSiZAYzb1Z4lvzHRo',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:13.251Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:13.301Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:15.111Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:18.883Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:24.248Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:24.427Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:24.443Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:25.596Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:46.826Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:45:46.831Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:49.357Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:50.781Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:55.453Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:57.829Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:59.229Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:45:59.561Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:04.490Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:46:09.806Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:46:09.833Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:46:10.937Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:46:11.297Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:30.238Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:32.609Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:48.486Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjEyMDgsImV4cCI6MTcwOTYyMTcwOH0.K4kHgjKo45-yoDQSKvMfiYQSGf-o7P9gMVxNWQJNAaA',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:48.504Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:48.522Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:46:50.332Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:46:50.471Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:52.458Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:54.924Z'
-}
-{
-  message: 'Token NOT OK',
-  level: 'info',
-  timestamp: '2024-03-05T06:46:59.734Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:47:12.594Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:47:12.856Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:47:12.859Z'
-}
-{
-  message: "development 404 Could't get path",
-  level: 'error',
-  timestamp: '2024-03-05T06:47:15.081Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:48:59.847Z'
-}
-{
-  message: 'Пользователь зашёл на страницу логина',
-  level: 'info',
-  timestamp: '2024-03-05T06:49:03.345Z'
-}
-{
-  message: 'Пользователь вошёл в аккаунт',
-  level: 'info',
-  timestamp: '2024-03-05T06:49:17.177Z'
-}
-{
-  message: 'Создан новый токен для undefined, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjEzNjEsImV4cCI6MTcwOTYyMTg2MX0.sPXAVYUzDfICTPXrcp1Lrl8AZBNekGkLtTlzDdgd6uY',
-  level: 'info',
-  timestamp: '2024-03-05T06:49:26.611Z'
-}
-{
-  message: 'Пользователь зашёл на главную страницу',
-  level: 'info',
-  timestamp: '2024-03-05T06:49:26.701Z'
-}
-{
-  message: 'Пользователь зашёл на страницу постов',
-  level: 'info',
-  timestamp: '2024-03-05T06:49:30.047Z'
-}
-{
-  message: 'Пользователь зашёл на страницу создания поста',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:49:32.526Z'
+  timestamp: '2024-03-05T06:51:07.283Z'
 }
 {
-  message: 'Token NOT OK',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:50:07.458Z'
+  timestamp: '2024-03-05T06:52:21.259Z'
 }
 {
-  message: 'Token NOT OK',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:51:09.091Z'
+  timestamp: '2024-03-05T06:53:33.745Z'
 }
 {
-  message: 'Пользователь зашёл на главную страницу',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:53:16.219Z'
+  timestamp: '2024-03-05T06:55:25.184Z'
 }
 {
-  message: 'Пользователь зашёл на страницу логина',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:53:18.403Z'
+  timestamp: '2024-03-05T06:55:41.631Z'
 }
 {
-  message: 'Пользователь вошёл в аккаунт',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:53:38.682Z'
+  timestamp: '2024-03-05T07:00:18.158Z'
 }
 {
-  message: 'Создан новый токен для matvey@gmail.com, Токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibWF0dmV5QGdtYWlsLmNvbSIsImlhdCI6MTcwOTYyMTYyNSwiZXhwIjoxNzA5NjIyMTI1fQ.1bLNaZiLhGzJorAXFvjYJZI-oZ1Y5oyMq4dNlZQ4DNk',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:53:53.133Z'
+  timestamp: '2024-03-05T07:00:21.313Z'
 }
 {
-  message: 'Пользователь зашёл на главную страницу',
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiMzViYXJkYWV2QGdtYWlsLmNvbSIsImlhdCI6MTcwOTYyMjAyNiwiZXhwIjoxNzA5NjI3MDI2fQ.PivHgEgXfsPTy35rpgQeI0EKINv2EuVpklFsVQbuTv0',
   level: 'info',
-  timestamp: '2024-03-05T06:53:53.159Z'
+  timestamp: '2024-03-05T07:00:26.461Z'
 }
 {
-  message: 'Пользователь зашёл на страницу постов',
+  message: 'Token accepted successfully',
   level: 'info',
-  timestamp: '2024-03-05T06:53:57.518Z'
+  timestamp: '2024-03-05T07:00:30.423Z'
 }
 {
-  message: 'Пользователь зашёл на страницу создания поста',
+  message: 'Сервер запущен на порту 3000',
   level: 'info',
-  timestamp: '2024-03-05T06:53:59.651Z'
+  timestamp: '2024-03-05T07:12:58.679Z'
 }
 {
-  message: 'Token OK',
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiMzViYXJkYWV2QGdtYWlsLmNvbSIsImlhdCI6MTcwOTYyMjc5OCwiZXhwIjoxNzA5NjI3Nzk4fQ.fx9EwmpDWufm4jcDw-x1Z9smWhAw7mvGGTAuoaFGBf8',
   level: 'info',
-  timestamp: '2024-03-05T06:54:24.531Z'
+  timestamp: '2024-03-05T07:13:18.346Z'
 }
 {
-  message: 'Пользователь создал новый пост',
+  message: 'Token accepted successfully',
   level: 'info',
-  timestamp: '2024-03-05T06:54:28.622Z'
+  timestamp: '2024-03-05T07:13:21.611Z'
 }
 {
-  message: 'Пользователь зашёл на страницу постов',
+  message: 'Token accepted successfully',
   level: 'info',
-  timestamp: '2024-03-05T06:54:28.658Z'
+  timestamp: '2024-03-05T07:13:38.281Z'
 }
