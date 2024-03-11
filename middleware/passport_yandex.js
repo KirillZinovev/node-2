@@ -6,7 +6,12 @@ const appToken = process.env.APP_TOKEN;
 
 function passportFunction(passport) {
   passport.serializeUser(function (user, done) {
-    done(null, user);
+    const newUser = {};
+    newUser.id = user.id;
+    newUser.email = user.emails[0].value;
+    newUser.name = user.displayName;
+    newUser.age = user.birthday ? date.now() - user.birthday : 0;
+    done(null, newUser);
   });
 
   passport.deserializeUser(function (obj, done) {
@@ -19,7 +24,7 @@ function passportFunction(passport) {
         clientSecret: process.env.YANDEX_CLIENT_SECRET,
         callbackURL: "http://127.0.0.1:3000/auth/yandex/callback",
       },
-      function (appToken, refreshToken, profile, done) {
+      function (accessToken, appToken, refreshToken, profile, done) {
         // asynchronous verification, for effect...
         process.nextTick(function () {
           // To keep the example simple, the user's Yandex profile is returned
