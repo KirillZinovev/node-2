@@ -27,6 +27,7 @@ function passportFunctionGoogle(passport) {
       function (request, accessToken, refreshToken, profile, done) {
         // asynchronous verification, for effect...
         process.nextTick(function () {
+          //qwve
           // To keep the example simple, the user's Google profile is returned
           // to represent the logged-in user.  In a typical application, you would
           // want to associate the Google account with a user record in your

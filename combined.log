@@ -533,3 +533,13 @@
   level: 'info',
   timestamp: '2024-03-12T08:50:28.160Z'
 }
+{
+  message: 'Сервер запущен на порту3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:52:13.389Z'
+}
+{
+  message: 'Получили профиль от Google秘Enotik',
+  level: 'info',
+  timestamp: '2024-03-12T08:52:28.584Z'
+}
