@@ -473,3 +473,28 @@
   level: 'info',
   timestamp: '2024-03-11T08:48:57.579Z'
 }
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:50:18.249Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T06:10:45.668Z'
+}
+{
+  message: 'Получили профиль от YandexEnotik秘',
+  level: 'info',
+  timestamp: '2024-03-12T06:10:59.636Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiMzViYXJkYWV2QGdtYWlsLmNvbSIsImlhdCI6MTcxMDIyMzg4NywiZXhwIjoxNzEwMjI4ODg3fQ.oLM_V_BdAk_uWrFWjKnpj8IG00z-e02Z34zjFdV0Qy4',
+  level: 'info',
+  timestamp: '2024-03-12T06:11:27.023Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T06:11:50.748Z'
+}
